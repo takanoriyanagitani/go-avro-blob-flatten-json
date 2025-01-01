@@ -23,3 +23,5 @@ go.work.sum
 
 # env file
 .env
+*.swp
+cmd/avro2blob2json2flatmap/avro2blob2json2flatmap
